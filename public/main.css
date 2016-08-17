@@ -1,0 +1,24 @@
+form {
+  float: none;
+  margin: 0 auto;
+  width: 60%;
+}
+
+.checkboxes {
+  margin: 0 auto;
+  font-size: 20px;
+  width: 125px;
+}
+
+.dropdown {
+  margin: 0 auto;
+  width: 250px;
+}
+
+.glyphicon {
+  font-size: 4.5em;
+}
+
+.jumbotron {
+  border-bottom: 1px solid #CCCCCC;
+}
